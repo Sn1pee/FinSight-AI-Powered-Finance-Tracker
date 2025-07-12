@@ -8,9 +8,9 @@ Built with ❤️ using Python, Streamlit, Pandas, Matplotlib, and OpenAI.
 
 ## 📸 Demo Preview
 
-> *(Add a screenshot below named `demo_screenshot.png`)*
-
-<img src="demo_screenshot.png" alt="FinSight Dashboard" width="800"/>
+<img src="C:\Users\monis\Pictures\Screenshots\Screenshot 2025-07-12 194311.png" alt="FinSight Dashboard" width="800"/>
+<img src="C:\Users\monis\Pictures\Screenshots\Screenshot 2025-07-12 194535.png" alt="Expense Visualization" width="800"/>
+<img src="C:\Users\monis\Pictures\Screenshots\Screenshot 2025-07-12 194544.png" alt="AI Advices" width="800"/>
 
 ---
 
