@@ -8,9 +8,9 @@ Built with ❤️ using Python, Streamlit, Pandas, Matplotlib, and OpenAI.
 
 ## 📸 Demo Preview
 
-<img src="C:\Users\monis\Pictures\Screenshots\Screenshot 2025-07-12 194311.png" alt="FinSight Dashboard" width="800"/>
-<img src="C:\Users\monis\Pictures\Screenshots\Screenshot 2025-07-12 194535.png" alt="Expense Visualization" width="800"/>
-<img src="C:\Users\monis\Pictures\Screenshots\Screenshot 2025-07-12 194544.png" alt="AI Advices" width="800"/>
+<img width="800" height="877" alt="FinSight Dashboard" src="https://github.com/user-attachments/assets/6d68a707-67cd-4449-bc08-5a3564800626" />
+<img width="800" height="885" alt="Expense Visualization" src="https://github.com/user-attachments/assets/cd47819f-97a5-40e3-9906-2e8eba491550" />
+<img width="800" height="684" alt="Screenshot 2025-07-12 195206" src="https://github.com/user-attachments/assets/e0810f5d-7d5a-4172-a90c-a08ac1d041f1" />
 
 ---
 
