@@ -2,11 +2,11 @@
 
 FinSight is a full-stack intelligent dashboard that analyzes your bank transactions (CSV or PDF), visualizes your spending, and delivers **AI-powered insights and savings tips**.
 
-Built with ❤️ using Python, Streamlit, Pandas, Matplotlib, and OpenAI.
+Built using Python, Streamlit, Pandas, Matplotlib, and OpenAI.
 
 ---
 
-## 📸 Demo Preview
+## Demo Preview
 
 <img width="800" height="877" alt="FinSight Dashboard" src="https://github.com/user-attachments/assets/6d68a707-67cd-4449-bc08-5a3564800626" />
 <img width="800" height="885" alt="Expense Visualization" src="https://github.com/user-attachments/assets/cd47819f-97a5-40e3-9906-2e8eba491550" />
@@ -14,7 +14,7 @@ Built with ❤️ using Python, Streamlit, Pandas, Matplotlib, and OpenAI.
 
 ---
 
-## 🚀 Features
+## Features
 
 | Feature                          | Description |
 |----------------------------------|-------------|
@@ -29,7 +29,7 @@ Built with ❤️ using Python, Streamlit, Pandas, Matplotlib, and OpenAI.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 - Python 🐍
 - [Streamlit](https://streamlit.io/) (UI)
@@ -61,9 +61,9 @@ finsight/
 
 ---
 
-## 🛠️ Setup & Run
+## Setup & Run
 
-### 🧑‍💻 Local Dev:
+### Local Dev:
 ```bash
 git clone https://github.com/your-username/finsight.git
 cd finsight
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### 🔐 Set Your API Key:
+### Set Your API Key:
 ```bash
 export FINSIGHT_API_KEY=your_openai_key
 # or
@@ -80,7 +80,7 @@ export GITHUB_TOKEN=your_openai_key
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud
+## Deploy on Streamlit Cloud
 
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io)
@@ -93,7 +93,7 @@ FINSIGHT_API_KEY = "sk-..."
 
 ---
 
-## 📈 Sample Usage
+## Sample Usage
 
 - Upload PDF → Extracted & parsed by GPT
 - Toggle "Use AI Categorizer" → Transactions intelligently tagged
@@ -101,7 +101,7 @@ FINSIGHT_API_KEY = "sk-..."
 
 ---
 
-## 🧠 AI Prompt Logic (Quick Peek)
+##  AI Prompt Logic (Quick Peek)
 
 ```text
 Given the CSV:
@@ -121,7 +121,7 @@ Give credit if you build something cool 💙
 
 ---
 
-## ✨ Credits
+## Credits
 
-Built with 💻 by [Monish](https://github.com/your-github-url)  
-Inspired by real-world financial stress 💀
+Built by [Monish](https://github.com/your-github-url)  
+Inspired by real-world financial stress :/
